@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Meal Suggestions</title>
+</head>
+<body>
+    <h1>Daily Meal Suggestions for {{ today }}</h1>
+    
+    <h2>Breakfast</h2>
+    <p><strong>{{ breakfast.name }}</strong></p>
+    <p>Ingredients: {{ breakfast.ingredients }}</p>
+    <p>Notes: {{ breakfast.notes }}</p>
+
+    <h2>Snack</h2>
+    <p><strong>{{ snack.name }}</strong></p>
+    <p>Ingredients: {{ snack.ingredients }}</p>
+    <p>Notes: {{ snack.notes }}</p>
+
+    <h2>Lunch</h2>
+    <p><strong>{{ lunch.name }}</strong></p>
+    <p>Ingredients: {{ lunch.ingredients }}</p>
+    <p>Notes: {{ lunch.notes }}</p>
+
+    <a href="/refresh">Get New Suggestions</a>
+</body>
+</html>

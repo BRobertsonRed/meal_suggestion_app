@@ -1,0 +1,10 @@
+meal_type,meal_name,ingredients,notes
+breakfast,Oatmeal with Almond Milk and Berries,"Oats, almond milk, blueberries, chia seeds","High fiber, anti-inflammatory"
+breakfast,Scrambled Eggs with Spinach and Tomatoes,"Eggs, spinach, tomatoes, olive oil","Protein-rich, Mediterranean"
+breakfast,Avocado Toast with Whole Grain Bread,"Whole grain bread, avocado, olive oil, salt, pepper","High fiber, healthy fats"
+snack,Apple with Almond Butter,"Apple, almond butter","Low purine, lactose-free"
+snack,Carrot and Hummus,"Carrot sticks, hummus","Mediterranean, lactose-free"
+snack,Mixed Nuts,"Almonds, walnuts, pistachios","Anti-inflammatory, healthy fats"
+lunch,Quinoa Salad with Chickpeas and Veggies,"Quinoa, chickpeas, cucumber, tomatoes, olive oil, lemon juice","Mediterranean, anti-inflammatory"
+lunch,Grilled Chicken with Roasted Vegetables,"Chicken breast, zucchini, bell peppers, olive oil, spices","Low purine, high protein"
+lunch,Lentil Soup with Leafy Greens,"Lentils, spinach, carrots, celery, onions, olive oil, spices","High fiber, Mediterranean, good for digestion"
